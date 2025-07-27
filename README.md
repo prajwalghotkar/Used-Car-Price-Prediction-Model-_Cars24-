@@ -1,39 +1,24 @@
 # 🚗 Used Car Price Prediction Model – Cars24 Business Case
-This project is built as part of a real-world business case for **Cars24**, a leading platform for buying and selling used cars in India.  The objective is to **automate the pricing mechanism** using a machine learning model that estimates the price of a used car based on its specifications and condition, replacing manual and rule-based processes.
 
-Description:
-This project focuses on building a machine learning-based solution to automate the estimation of used car prices for Cars24, one of India's leading online platforms for buying and selling pre-owned vehicles.
+#### This project is built as part of a real-world business case for **Cars24**, a leading platform for buying and selling used cars in India.  The objective is to **automate the pricing mechanism** using a machine learning model that estimates the price of a used car based on its specifications and condition, replacing manual and rule-based processes.
 
-Traditionally, used car prices are calculated using:
+### Description:
+#### This project focuses on building a machine learning-based solution to automate the estimation of used car prices for Cars24, one of India's leading online platforms for buying and selling pre-owned vehicles.
 
-Historical price records for similar models
+- Traditionally, used car prices are calculated using:
 
-Rule-based depreciation methods
+- Historical price records for similar models
 
-Manual condition assessments
+- Rule-based depreciation methods
 
-These methods are time-consuming, error-prone, and lack personalization. To improve this, I developed a predictive ML model that automatically estimates the price of a used car based on relevant attributes such as make, model, age, fuel type, transmission, and more.
+- Manual condition assessments
 
-This solution empowers pricing analysts, business teams, and non-technical users by delivering fast, consistent, and data-driven price estimates—enhancing decision-making and increasing customer trust.
-Description:
-This project focuses on building a machine learning-based solution to automate the estimation of used car prices for Cars24, one of India's leading online platforms for buying and selling pre-owned vehicles.
+#### -- These methods are time-consuming, error-prone, and lack personalization. To improve this, I developed a predictive ML model that automatically estimates the price of a used car based on relevant attributes such as make, model, age, fuel type, transmission, and more.
 
-Traditionally, used car prices are calculated using:
-
-Historical price records for similar models
-
-Rule-based depreciation methods
-
-Manual condition assessments
-
-These methods are time-consuming, error-prone, and lack personalization. To improve this, I developed a predictive ML model that automatically estimates the price of a used car based on relevant attributes such as make, model, age, fuel type, transmission, and more.
-
-This solution empowers pricing analysts, business teams, and non-technical users by delivering fast, consistent, and data-driven price estimates—enhancing decision-making and increasing customer trust.
+#### -- This solution empowers pricing analysts, business teams, and non-technical users by delivering fast, consistent, and data-driven price estimates—enhancing decision-making and increasing customer trust.
 
 ## 📌 Overview
-This project is built as part of a real-world business case for **Cars24**, a leading platform for buying and selling used cars in India.
-
-The objective is to **automate the pricing mechanism** using a machine learning model that estimates the price of a used car based on its specifications and condition, replacing manual and rule-based processes.
+#### This project is built as part of a real-world business case for **Cars24**, a leading platform for buying and selling used cars in India.The objective is to **automate the pricing mechanism** using a machine learning model that estimates the price of a used car based on its specifications and condition, replacing manual and rule-based processes.
 
 ---
 
